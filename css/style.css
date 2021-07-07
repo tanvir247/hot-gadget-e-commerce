@@ -1,0 +1,51 @@
+
+h1{
+    font-size: 41px;
+    color: #1F1F1F;
+}
+p{
+    font-size: 18px;
+    color: #707070;
+}
+.container{
+    margin-bottom: 100px;
+}
+.logo-width{
+    width: 227px;
+    height: 89px;
+}
+.buy-button{
+    background-color: #000000;
+    color:#FFFFFF;
+    height: 57px;
+    width: 179px;
+    border-radius: 5px;
+}
+.seeAll{
+    text-decoration: none;
+    color: black;
+}
+
+#card-shadow{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-body h5, p{
+    text-align: center;
+}
+.card-body button{
+    justify-content: center;
+}
+.catDiv{
+    width: 296;
+    height: 314;
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 30px 10px;
+}
+.headCat h1{
+    border-bottom: 5px solid #FF9C35;
+    padding: 10px;
+}
